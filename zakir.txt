@@ -1,0 +1,2 @@
+name: zakir
+course: automation testing
