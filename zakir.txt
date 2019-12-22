@@ -1,2 +1,6 @@
 name: zakir
 course: automation testing
+name: zakir
+course: automation testing
+name: zakir
+course: automation testing
